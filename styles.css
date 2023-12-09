@@ -1,7 +1,4 @@
-table{
-	border: solid;
-}
-img{
-	height: 100px;
-	width: 100px;
+.container-fluid{
+	display: flex;
+	flex-direction: column;
 }
